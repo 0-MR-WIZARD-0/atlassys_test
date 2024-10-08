@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/atlassys_test/static/css/main.72538185.css",
+    "main.js": "/atlassys_test/static/js/main.5b101b91.js",
+    "static/media/logo.svg": "/atlassys_test/static/media/logo.a493255c8a105e113198789d275c2f8a.svg",
+    "static/media/Services.svg": "/atlassys_test/static/media/Services.0253eac9aedeac8b9d7b874d03aaf5b1.svg",
+    "static/media/Loans.svg": "/atlassys_test/static/media/Loans.4db343936e8b076ed13cb23fbb26afc1.svg",
+    "static/media/Transactions.svg": "/atlassys_test/static/media/Transactions.cab3a662abce6086eee84409d7385a19.svg",
+    "static/media/Investments.svg": "/atlassys_test/static/media/Investments.3aa41fd4beeee371f418330e3bd8868f.svg",
+    "static/media/Privileges.svg": "/atlassys_test/static/media/Privileges.01a76b3148f5147ebdff85ef5fb350da.svg",
+    "static/media/notification.svg": "/atlassys_test/static/media/notification.8680dfecc1ea7acd4d23f00c2cffadf7.svg",
+    "static/media/Accounts.svg": "/atlassys_test/static/media/Accounts.b9cfda34c80356e035556d7c5c5f4158.svg",
+    "static/media/Credit.svg": "/atlassys_test/static/media/Credit.35b56846a6d5655468013918b7d29c79.svg",
+    "static/media/Setting.svg": "/atlassys_test/static/media/Setting.dd9be44acf762862026a693bff9fe0e5.svg",
+    "static/media/Dashboard.svg": "/atlassys_test/static/media/Dashboard.e0fbadf2b0cfb1418689a31ebb8944f8.svg",
+    "static/media/Group.svg": "/atlassys_test/static/media/Group.5da985ecba2476781461b3d0871299c8.svg",
+    "index.html": "/atlassys_test/index.html",
+    "main.72538185.css.map": "/atlassys_test/static/css/main.72538185.css.map",
+    "main.5b101b91.js.map": "/atlassys_test/static/js/main.5b101b91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72538185.css",
+    "static/js/main.5b101b91.js"
+  ]
+}
