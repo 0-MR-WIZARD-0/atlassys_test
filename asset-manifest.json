@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/atlassys_test/static/css/main.72538185.css",
+    "main.css": "/atlassys_test/static/css/main.cb5f5b09.css",
     "main.js": "/atlassys_test/static/js/main.5b101b91.js",
     "static/media/logo.svg": "/atlassys_test/static/media/logo.a493255c8a105e113198789d275c2f8a.svg",
     "static/media/Services.svg": "/atlassys_test/static/media/Services.0253eac9aedeac8b9d7b874d03aaf5b1.svg",
@@ -15,11 +15,11 @@
     "static/media/Dashboard.svg": "/atlassys_test/static/media/Dashboard.e0fbadf2b0cfb1418689a31ebb8944f8.svg",
     "static/media/Group.svg": "/atlassys_test/static/media/Group.5da985ecba2476781461b3d0871299c8.svg",
     "index.html": "/atlassys_test/index.html",
-    "main.72538185.css.map": "/atlassys_test/static/css/main.72538185.css.map",
+    "main.cb5f5b09.css.map": "/atlassys_test/static/css/main.cb5f5b09.css.map",
     "main.5b101b91.js.map": "/atlassys_test/static/js/main.5b101b91.js.map"
   },
   "entrypoints": [
-    "static/css/main.72538185.css",
+    "static/css/main.cb5f5b09.css",
     "static/js/main.5b101b91.js"
   ]
 }
